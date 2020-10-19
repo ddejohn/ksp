@@ -1,5 +1,4 @@
-*
-!*/
-!/saves/**
-!/Ships
+/*
+!/saves/
+!/Ships/
 !.gitignore
